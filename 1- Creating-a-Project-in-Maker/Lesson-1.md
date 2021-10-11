@@ -16,8 +16,4 @@
 
 ## Home screen
 
-![Home screen](/1- Creating-a-Project-in-Maker/Maker-Studio.jpeg) 
-
-
-1º Open Maker Studio;
-
+![Home screen](https://user-images.githubusercontent.com/77403094/136837831-1558e124-81ea-48c1-b00f-b321dca2040f.jpeg)
