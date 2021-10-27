@@ -36,4 +36,4 @@ There is a list of approved databases in the Maker, such as:
 - SQL Server
 - Postgres
 - MySQL
-  For this demo we will choose Postgres               
+  For this demo we will choose Postgres                
